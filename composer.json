@@ -1,0 +1,6 @@
+{
+    "name": "edvin/web-repo",
+    "require": {
+        "mikecao/flight": "^1.3"
+    }
+}
